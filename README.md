@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in a career in web develpment. Love Javascript, React and Node.js 💞️
 - 🌱 I’m currently learning through The Odin Project's full stack JavaScript curriculum
-- 💬 Ask me about anything 
+- 💬 Ask me about anything. I'll answer you as soon as possible
 - 📫 Reach me at rt138328@gmail.com or @rt138328 on Instagram :)
 
 <!---
