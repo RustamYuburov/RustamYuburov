@@ -1,6 +1,5 @@
 <h2> Hi, I’m Rustam Yuburov </h2>
 
-- 👋 Hi, I’m Rustam Yuburov
 - 👀 I’m interested in a career in web develpment. Love Javascript, React and Node.js :)
 - 🌱 I’m currently learning through The Odin Project's full stack JavaScript curriculum
 - 💞️ I’m looking to collaborate on with anyone
