@@ -5,7 +5,7 @@
 
 - ✏️ I’m currently learning through [The Odin Project](https://theodinproject.com/)'s full stack JavaScript curriculum
 
-- 👨‍💻 My projects are available right here on Github or at [my-website-not-ready-yet](#)
+- 👨‍💻 My projects are available right here on Github or at [My Website](https://rustamyuburov.netlify.app/)
 
 - 💬 Ask me about **anything!** I'll answer you as soon as possible
 
