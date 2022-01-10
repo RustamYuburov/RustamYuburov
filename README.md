@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything!** I'll answer you as soon as possible
 
-- 📫 How to reach me **rt138328@gmail.com** or **@rt138328** on Instagram :)
+- 📫 How to reach me **rustamyuburov.work@gmail.com** or **@rt138328** on Instagram :)
 
 - ⚡ Random facts about me:  **I fluently speak English, Russian and Chinese. Also I'm [dungan](https://en.wikipedia.org/wiki/Dungan_people) (national minority)**
 
