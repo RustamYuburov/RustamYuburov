@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rustamyuburov.work@gmail.com** or **@rt138328** on Instagram :)
 
-- ⚡ Random facts about me:  **I fluently speak English, Russian and Chinese. Also I'm [dungan](https://en.wikipedia.org/wiki/Dungan_people) (national minority)**
+- ⚡ Flash facts about me:  **I fluently speak English, Russian and Chinese. Also I'm from Kazakhstan**
 
 ## Connect with me:
 <p align="left">
