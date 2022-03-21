@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">Right now I'm working as a backend Node.js developer at [Webland.design agency](https://webland.design/).</h3>
+<h3 align="center">💞️ Love Javascript, React and Node.js.</h3>
 
-- 💞️ Love Javascript, React and Node.js 
+- 👨‍💻 Right now I'm working as a backend Node.js developer at [Webland.design agency](https://webland.design/)
 
 - ✏️ I’m currently learning Python through [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)'s course by Dr.Angela Yu
 
