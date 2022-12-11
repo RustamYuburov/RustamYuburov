@@ -3,9 +3,7 @@
 
 - 👨‍💻 Right now I'm working as a backend Node.js developer at [Webland.design agency](https://webland.design/)
 
-- ✏️ I’m currently learning Python through [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)'s course by Dr.Angela Yu
-
-- 👨‍💻 My projects are available right here on Github or at [My Website](https://rustamyuburov.netlify.app/)
+- ✏️ I’m currently learning Go through [Go Documentation](https://go.dev/doc/)
 
 - 💬 Ask me about **anything!** I'll answer you as soon as possible
 
@@ -38,7 +36,7 @@
 
 
 ## Latest steps on my learning journey
-- Python on [100 Days of Code](https://www.udemy.com/course/100-days-of-code/)
+- Go on [Go Documentation](https://go.dev/doc/)
 - NodeJS on [The Odin Project](https://theodinproject.com/courses/nodejs) - Express.js, REST API, SQL and NO SQL Databases
 - Javascript on [The Odin Project](https://theodinproject.com/courses/javascript) - From an introduction in OOP Principles, ES6 Modules, Async APIs, up to React usage
 - Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/learn/)
