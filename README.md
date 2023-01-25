@@ -3,7 +3,7 @@
 
 - 👨‍💻 Right now I'm working as a backend Node.js developer at [Webland.design agency](https://webland.design/)
 
-- ✏️ I’m currently learning Go through [Go Documentation](https://go.dev/doc/)
+- ✏️ I’m currently learning Go through [Go Documentation](https://go.dev/doc/) and [Go for Beginners](https://hyperskill.org/tracks/25) on Hyperskill
 
 - 💬 Ask me about **anything!** I'll answer you as soon as possible
 
@@ -30,7 +30,7 @@
 
 
 ## Latest steps on my learning journey
-- Go on [Go Documentation](https://go.dev/doc/)
+- Go on [Go Documentation](https://go.dev/doc/) and [Go for Beginners](https://hyperskill.org/tracks/25) on Hyperskill
 - NodeJS on [The Odin Project](https://theodinproject.com/courses/nodejs) - Express.js, REST API, SQL and NO SQL Databases
 - Javascript on [The Odin Project](https://theodinproject.com/courses/javascript) - From an introduction in OOP Principles, ES6 Modules, Async APIs, up to React usage
 - Responsive Web Design on [freeCodeCamp](https://www.freecodecamp.org/learn/)
