@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">💞️ Love Javascript, React and Node.js.</h3>
+<h1 align="center">Hi 👋, I'm Rustam Yuburov</h1>
+<h3 align="center">💞️ Love programming and solving problems.</h3>
 
-- 👨‍💻 Right now I'm working as a backend Node.js developer at [Webland.design agency](https://webland.design/)
+- 👨‍💻 Right now I'm working as a backend Node.js developer at [Simple'Around](https://www.simplearound.com/)
 
 - ✏️ I’m currently learning Go through [Go Documentation](https://go.dev/doc/) and [Go for Beginners](https://hyperskill.org/tracks/25) on Hyperskill
 
