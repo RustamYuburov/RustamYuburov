@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything!** I'll answer you as soon as possible
 
-- 📫 How to reach me **rustamyuburov.work@gmail.com** or **@rt138328** on Instagram :)
+- 📫 You can reach me at **rustamyuburov.work@gmail.com** or **@rt138328** on Instagram :)
 
 - ⚡ Flash facts about me:  **I fluently speak English, Russian and Chinese. Also I'm from Kazakhstan**
 
