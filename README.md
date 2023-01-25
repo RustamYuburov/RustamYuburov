@@ -13,13 +13,13 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/rustam-yuburov/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rustam" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rt138328/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rustam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rustam-yuburov/" target="_blank"><img align="center" src="https://icons8.com/icon/IXUU4h36YfmO/linkedin-circled" alt="rustam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rt138328/" target="_blank"><img align="center" src="https://icons8.com/icon/TEYr8ETaIfBJ/instagram" alt="rustam" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
