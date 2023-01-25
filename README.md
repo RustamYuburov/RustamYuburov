@@ -13,8 +13,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/rustam-yuburov/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="rustam" height="50" width="40" /></a>
-<a href="https://www.instagram.com/rt138328/" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/instagram-new--v2.png" alt="rustam" height="50" width="40" /></a>
+<a href="https://www.linkedin.com/in/rustam-yuburov/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin-circled.png" alt="rustam" height="50" width="50" /></a>
+<a href="https://www.instagram.com/rt138328/" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/null/instagram-new--v2.png" alt="rustam" height="50" width="50" /></a>
 </p>
 
 ## Languages and Tools:
