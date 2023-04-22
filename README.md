@@ -3,7 +3,7 @@
 
 - 👨‍💻 Right now I'm working as a backend developer at [Simple'Around](https://www.simplearound.com/)
 
-- ✏️ I’m currently learning Go through [Go Documentation](https://go.dev/doc/) and [Go for Beginners](https://hyperskill.org/tracks/25) on Hyperskill
+- ✏️ I’m currently learning Go through [Go Documentation](https://go.dev/doc/) and [The Way to Go](https://www.educative.io/courses/the-way-to-go) on Educative
 
 - 💬 Ask me about **anything!** I'll answer you as soon as possible
 
